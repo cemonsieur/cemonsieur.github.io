@@ -1,0 +1,7 @@
+---
+published: true
+title: Number 2
+layout: post
+tags: [play]
+---
+Huuuuuuuuuuray!
